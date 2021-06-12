@@ -46,7 +46,7 @@ const config: MenuEntry[] = [
   //   href: '/nft',
   // },
   {
-    label: 'Info',
+    label: 'Listing',
     icon: 'InfoIcon',
     items: [
       {
@@ -64,7 +64,7 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'More',
+    label: 'Info',
     icon: 'MoreIcon',
     items: [
       {
