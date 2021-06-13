@@ -1932,9 +1932,9 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@pancakeswap-libs/uikit@bejos/bejo-uikit":
+"@pancakeswap-libs/uikit@bejos/zone-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/bejos/bejo-uikit/tar.gz/2c300533cb8a10ffb3f5a21086de5bae08514abb"
+  resolved "https://codeload.github.com/bejos/zone-uikit/tar.gz/07ed895e2a5cf3d829b6775625d2ea911d36256f"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
